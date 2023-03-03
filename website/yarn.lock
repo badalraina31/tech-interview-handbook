@@ -4106,11 +4106,6 @@ ci-info@^2.0.0:
   resolved "https://registry.yarnpkg.com/ci-info/-/ci-info-2.0.0.tgz#67a9e964be31a51e15e5010d58e6f12834002f46"
   integrity sha512-5tK7EtrZ0N+OLFMthtqOj4fI2Jeb88C4CAZPu25LDVUgXJ0A3Js4PMGqrn0JU1W0Mh1/Z8wZzYPxqUrXeBboCQ==
 
-classnames@^2.2.6:
-  version "2.3.1"
-  resolved "https://registry.yarnpkg.com/classnames/-/classnames-2.3.1.tgz#dfcfa3891e306ec1dad105d0e88f4417b8535e8e"
-  integrity sha512-OlQdbZ7gLfGarSqxesMesDa5uz7KFbID8Kpq/SxIoNGDqY8lSYs0D+hhtBXhcdB3rcbXArFr7vlHheLk1voeNA==
-
 clean-css@^5.1.5:
   version "5.2.1"
   resolved "https://registry.yarnpkg.com/clean-css/-/clean-css-5.2.1.tgz#e5bdb1bee5f332c67e98cb6181251d4f88c0a6ab"
@@ -4752,9 +4747,9 @@ dns-equal@^1.0.0:
   integrity sha1-s55/HabrCnW6nBcySzR1PEfgZU0=
 
 dns-packet@^5.2.2:
-  version "5.3.1"
-  resolved "https://registry.yarnpkg.com/dns-packet/-/dns-packet-5.3.1.tgz#eb94413789daec0f0ebe2fcc230bdc9d7c91b43d"
-  integrity sha512-spBwIj0TK0Ey3666GwIdWVfUpLyubpU53BTCu8iPn4r4oXd9O14Hjg3EHw3ts2oed77/SeckunUYCyRlSngqHw==
+  version "5.4.0"
+  resolved "https://registry.yarnpkg.com/dns-packet/-/dns-packet-5.4.0.tgz#1f88477cf9f27e78a213fb6d118ae38e759a879b"
+  integrity sha512-EgqGeaBB8hLiHLZtp/IbaDQTL8pZ0+IvwzSHA6d7VyMDM+B9hgddEMa9xjK5oYnw0ci0JQ6g2XCD7/f6cafU6g==
   dependencies:
     "@leichtgewicht/ip-codec" "^2.0.1"
 
